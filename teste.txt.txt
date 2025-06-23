@@ -1,0 +1,4 @@
+Este é um arquivo de teste para conflito no Git.
+Linha 1
+Linha 2
+Linha 3
